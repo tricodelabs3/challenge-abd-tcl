@@ -1,7 +1,7 @@
-# 💡 Saúde Inteligente – Prevenção Personalizada
+# 💡 Vitta – Prevenção Personalizada
 
 ## 🧩 Descrição do Projeto
-O **Saúde Inteligente – Prevenção Personalizada** é uma plataforma criada para ajudar as pessoas a cuidarem melhor da própria saúde de forma simples, prática e motivadora.  
+O **Vitta – Prevenção Personalizada** é uma plataforma criada para ajudar as pessoas a cuidarem melhor da própria saúde de forma simples, prática e motivadora.  
 A ideia nasceu da percepção de que, no dia a dia, muitas pessoas querem ter uma vida mais saudável, mas não sabem por onde começar ou acabam desistindo por falta de acompanhamento e orientação.
 
 Nosso objetivo é oferecer uma ferramenta digital que **acompanhe os hábitos diários** do usuário — como alimentação, sono e exercícios — e que **oriente de forma personalizada** com base no estilo de vida de cada um.  
@@ -9,7 +9,7 @@ Mais do que um aplicativo de monitoramento, o projeto busca ser um **assistente 
 
 A plataforma pretende reunir, em um só lugar, informações sobre nutrição, atividade física e bem-estar, apresentando **dicas, alertas e metas personalizadas** para incentivar o usuário a cuidar da própria saúde de forma equilibrada e constante.
 
-Com isso, o **Saúde Inteligente** quer ajudar as pessoas a viverem melhor, adotando hábitos saudáveis antes que surjam problemas — transformando a prevenção em algo leve, acessível e motivador.
+Com isso, o **Vitta** quer ajudar as pessoas a viverem melhor, adotando hábitos saudáveis antes que surjam problemas — transformando a prevenção em algo leve, acessível e motivador.
 
 ---
 
@@ -22,7 +22,7 @@ Existem muitos aplicativos de saúde no mercado, mas a maioria deles **apenas co
 Poucos realmente **interpretam essas informações** e oferecem **orientações personalizadas** sobre o que o usuário pode melhorar em sua rotina.  
 Além disso, acompanhar tudo separadamente — dieta, treino, clima, sono — acaba se tornando confuso e desmotivador.
 
-O **Saúde Inteligente** surge justamente para resolver esse problema:  
+O **Vitta** surge justamente para resolver esse problema:  
 ele quer transformar dados em **cuidados reais**, traduzindo informações sobre o corpo e o dia a dia em **ações práticas e recomendações fáceis de seguir**, com o foco total em **prevenir doenças e melhorar a qualidade de vida**.
 
 ---
