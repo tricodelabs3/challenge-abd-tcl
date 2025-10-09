@@ -1,0 +1,30 @@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Vitta.Models.Usuario
+
+<h2>Cadastrar Usuário</h2>
+
+@if (ViewBag.Erro != null)
+{
+<p style="color:red">@ViewBag.Erro</p>
+}
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Nome:</label>
+        <input asp-for="Nome" />
+    </div>
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" type="email" />
+    </div>
+    <div>
+        <label>Objetivo:</label>
+        <input asp-for="Objetivo" />
+    </div>
+
+    <button type="submit">Salvar</button>
+    <a asp-action="Index">Voltar</a>
+</form>

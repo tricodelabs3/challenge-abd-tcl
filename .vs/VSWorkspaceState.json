@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Vitta",
+    "\\Vitta\\Controllers",
+    "\\Vitta\\Models",
+    "\\Vitta\\Services",
+    "\\Vitta\\Views",
+    "\\Vitta\\Views\\Shared",
+    "\\Vitta\\Views\\Usuario",
+    "\\Vitta\\wwwroot"
+  ],
+  "SelectedNode": "\\Vitta\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

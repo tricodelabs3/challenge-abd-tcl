@@ -1,0 +1,15 @@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Vitta.Models.Usuario
+
+<h2>Excluir Usuário</h2>
+
+<p>Tem certeza de que deseja excluir o usuário <strong>@Model.Nome</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Excluir</button>
+    <a asp-action="Index">Cancelar</a>
+</form>

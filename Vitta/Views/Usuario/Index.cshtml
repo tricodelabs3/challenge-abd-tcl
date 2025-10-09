@@ -1,0 +1,26 @@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<Vitta.Models.Usuario>
+
+    <h2>Usuários</h2>
+
+    <a href="/Usuario/Create">Cadastrar Novo</a>
+
+    <table border="1">
+        <tr><th>ID</th><th>Nome</th><th>Email</th><th>Objetivo</th><th>Ações</th></tr>
+        @foreach (var u in Model)
+    {
+        <tr>
+            <td>@u.Id</td>
+            <td>@u.Nome</td>
+            <td>@u.Email</td>
+            <td>@u.Objetivo</td>
+            <td>
+                <a href="/Usuario/Edit/@u.Id">Editar</a> |
+                <a href="/Usuario/Delete/@u.Id">Excluir</a>
+            </td>
+        </tr>
+    }
+    </table>
