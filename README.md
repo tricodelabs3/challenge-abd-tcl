@@ -29,8 +29,8 @@ ele quer transformar dados em **cuidados reais**, traduzindo informações sobre
 
 ## ✅ Solução Proposta
 Criar uma plataforma web que:
-- Permita o **cadastro e acompanhamento de hábitos de saúde**;
-- Reúna informações sobre **alimentação, exercícios e sono**;
+- Permita o **cadastro de usuários e acompanhamento de hábitos de saúde**;
+- Reúna no futuro informações sobre **alimentação, exercícios e sono**;
 - Ofereça **recomendações personalizadas** baseadas no estilo de vida do usuário;
 - Estimule o cuidado preventivo e o bem-estar diário.
 
@@ -51,7 +51,7 @@ Nesta Sprint, o foco é apenas o **protótipo inicial em ASP.NET Webpages**, par
 
 ### Requisitos Funcionais
 - Permitir o cadastro de usuários e hábitos de saúde.  
-- Exibir os hábitos registrados em uma página de listagem.  
+- Exibir os usuários e hábitos registrados em uma página de listagem.  
 - Armazenar e recuperar informações básicas dos usuários.  
 - Navegação entre páginas (Home, Cadastro, Listagem).  
 
